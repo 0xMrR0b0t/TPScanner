@@ -32,7 +32,7 @@ python3 main.py
 ```
 ## Options
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xMrR0b0t/TPScanner/main/tpscaner.png" alt="demo"/>
+  <img src="https://raw.githubusercontent.com/0xMrR0b0t/TPScanner/main/tpscaner.png" alt="TPScaner"/>
 </p>
 
  ## YouTube Demo :
