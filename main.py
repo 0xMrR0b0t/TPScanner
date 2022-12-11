@@ -68,10 +68,6 @@ def scan(port):
        print("port open", port)
     s.close()
 
-# def thread(startingPort, endingPort):
-#      for i in range(startingPort, endingPort + 1):
-#         t = threading.Thread(target=scan, args=(i,))
-#         t.start()
 queue = Queue()
 def get_ports(mode):
     if mode == 1:
