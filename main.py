@@ -3,7 +3,19 @@ import sys
 from queue import Queue
 import threading
 from datetime import datetime
+import os
 
+def clear():
+ 
+    # for windows
+    if os.name == 'nt':
+        _ = os.system('cls')
+ 
+    # for mac and linux(here, os.name is 'posix')
+    else:
+        _ = os.system('clear')
+clear()
+    
 print('''
       
 $$$$$$$\                       $$\                                                                      
