@@ -29,7 +29,7 @@ $$ |      \$$$$$$  |$$ |       \$$$$  |      $$$$$$$  |\$$$$$$$\\$$$$$$$ |$$ |  
 |                                                                                                |
 |--------------------------------------------Coded by Mohit--------------------------------------|''')
 
-print("Github: https://github.com/0xMrR0b0t/tcp_port_scanner")
+print("\nGithub: https://github.com/0xMrR0b0t/tcp_port_scanner\n")
 
 
 host = socket.gethostbyname(input("Enter Your ip/domain: "))
