@@ -26,7 +26,8 @@
 
 ```bash
 git clone https://github.com/0xMrR0b0t/TPScanner.git
-cd TPScaner 
+cd TPScaner
+pip3 install -r requirements.txt
 python3 main.py
 ```
 That's it. You can execute tool by typing **TPScaner**
