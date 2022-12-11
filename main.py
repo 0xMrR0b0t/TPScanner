@@ -102,8 +102,6 @@ def run_scanner(threads, mode):
     for thread in thread_list:
         thread.join()
 
-    print("Open ports are:", open_ports)
-
 run_scanner(1021, mode)
 print(f"Scanning compleate in: {current_time}")
 
