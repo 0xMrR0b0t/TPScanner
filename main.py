@@ -62,7 +62,7 @@ print("Scanning started at:" + str(datetime.now()))
 print("-"*50)
 def scan(port):
     s = socket.socket()
-    s.settimeout(1)
+    s.settimeout(5)
     result = s.connect_ex((host, port))
     if result == 0:
        print("port open", port)
