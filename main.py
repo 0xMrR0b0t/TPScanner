@@ -23,7 +23,7 @@ print("Github: https://github.com/0xMrR0b0t/tcp_port_scanner")
 host = socket.gethostbyname(input("Enter Your ip/domain: "))
 
 normalPortStart = 1
-normalPortEnd = 1021
+normalPortEnd = 1024
 allPort = 1
 allPortEnd = 65535
 customPortStart = 0
