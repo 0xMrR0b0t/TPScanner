@@ -30,7 +30,10 @@ cd TPScaner
 pip3 install -r requirements.txt
 python3 main.py
 ```
-That's it. You can execute tool by typing **TPScaner**
+## Options
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xMrR0b0t/TPScanner/main/tpscaner.png" alt="demo"/>
+</p>
 
  ## YouTube Demo :
   [click here](https://www.youtube.com/watch?v=kAD5P5AYec0&ab_channel=1ucif3r) 
