@@ -33,7 +33,7 @@ python3 main.py
 That's it. You can execute tool by typing **TPScaner**
 
  ## YouTube Demo :
-  [click hear](https://external.ink?to=/https://www.youtube.com/watch?v=kAD5P5AYec0&ab_channel=1ucif3r)
+   <a href="https://www.youtube.com/watch?v=kAD5P5AYec0&ab_channel=1ucif3r" target="_blank">Click Here</a>
 
 
  
