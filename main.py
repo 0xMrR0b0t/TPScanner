@@ -44,8 +44,8 @@ customPortEnd = 0
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 print("Select your scan type: ")
-print("[+] Select 1 for normal port scaning")
-print("[+] Select 2 for all port scaning")
+print("[+] Select 1 for 1 to 1024 port scaning")
+print("[+] Select 2 for 1 to 65535 port scaning")
 print("[+] Select 3 for custom port scaning")
 print("[+] Select 4 for exit \n")
 
