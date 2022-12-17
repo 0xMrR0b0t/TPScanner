@@ -72,15 +72,15 @@ queue = Queue()
 def get_ports(mode):
     if mode == 1:
         print("\n[+] scaning..\n")
-        for port in range(normalPortStart, normalPortEnd):
+        for port in range(normalPortStart, normalPortEnd+1):
             queue.put(port)
     elif mode == 2:
         print("\n[+] scaning..\n")
-        for port in range(allPort, allPortEnd):
+        for port in range(allPort, allPortEnd+1):
             queue.put(port)
     elif mode == 3:
         print("\n[+] scaning..\n")
-        for port in range(customPortStart, customPortEnd):
+        for port in range(customPortStart, customPortEnd+1):
             queue.put(port)
     elif mode == 4:
         print("[-] Exiting...")
