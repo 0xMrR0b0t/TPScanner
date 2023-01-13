@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 ## Options
-![TPScanner Image](https://raw.githubusercontent.com/0xMrR0b0t/TPScanner/main/tpscaner.png "TPScanner Imagg)
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
 
  ## YouTube Demo :
   [click here](https://www.youtube.com/watch?v=kAD5P5AYec0&ab_channel=1ucif3r) 
