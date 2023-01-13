@@ -9,9 +9,9 @@
 
 
 
-###### <p style="text-align:center"> *This is official repository maintained by me*</center> </p>
-###### <p style="text-align:center">  *[0xMrR0b0t](https://www.instagram.com/mohit_a95/) ❤️*</center> </p>
-###### <p style="text-align:center">  *You can check [Instagram](https://www.instagram.com/mohit_a95/)✌*</center> </p>
+###### <p align="center"> *This is official repository maintained by me*</center> </p>
+###### <p align="center"> *[0xMrR0b0t](https://www.instagram.com/mohit_a95/) ❤️*</center> </p>
+###### <p align="center"> *You can check [Instagram](https://www.instagram.com/mohit_a95/)✌*</center> </p>
   
   
 ## TPScaner
