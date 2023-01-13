@@ -9,9 +9,9 @@
 
 
 
-###### <center>*This is official repository maintained by me*</center>
-###### <center>*[0xMrR0b0t](https://www.instagram.com/mohit_a95/) ❤️*</center>
-###### <center>*You can check [Instagram](https://www.instagram.com/mohit_a95/)✌*</center>
+###### <center> *This is official repository maintained by me*</center>
+###### <center> *[0xMrR0b0t](https://www.instagram.com/mohit_a95/) ❤️*</center>
+###### <center> *You can check [Instagram](https://www.instagram.com/mohit_a95/)✌*</center>
   
   
 ## TPScaner
