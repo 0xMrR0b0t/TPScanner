@@ -4,7 +4,7 @@
   <br>
   
 ##   <p align="center">TPScaner
-  <p align="center">Simple TCP port scaner<p align="center">
+  <p align="center">Simple TCP port scaner
 
 
 
