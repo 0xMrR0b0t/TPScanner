@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 ## Options
-![TPScanner Image!](/tpscaner.png "TPScanner Image")
+![TPScanner Image](/tpscaner.png "TPScanner Image")
 
  ## YouTube Demo :
   [click here](https://www.youtube.com/watch?v=kAD5P5AYec0&ab_channel=1ucif3r) 
