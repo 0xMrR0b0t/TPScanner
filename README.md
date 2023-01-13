@@ -34,7 +34,7 @@ python3 main.py
 ![TPScanner Image](/tpscaner.png "TPScanner Image")
 
  ## YouTube Demo :
-  [click here](https://www.youtube.com/watch?v=kAD5P5AYec0&ab_channel=1ucif3r) 
+  [click here](https://www.youtube.com/watch?v=kAD5P5AYec0&ab_channel=1ucif3r "YouTube Video") 
 
 
  
